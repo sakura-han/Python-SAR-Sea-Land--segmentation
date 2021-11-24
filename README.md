@@ -3,7 +3,7 @@
 
 用到的海岸线文件是German FOSSGIS小组(https://www.fossgis.de/) 从OSM海岸线中制作了shapefile格式的文件，下载地址为https://osmdata.openstreetmap.de/data/land-polygons.html
 
- 使用QGIS软件打开land-polygons.shp文件
+ 使用QGIS软件打开下载好的陆地掩膜文件land-polygons.shp
  ![image](https://user-images.githubusercontent.com/71449105/143207446-7a816b0e-8e35-45fd-8978-e42d8ba1ab73.png)
  
  SAR图像海陆分割的实现主要分为3步 
